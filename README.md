@@ -9,6 +9,11 @@ Este projeto foi inicializado com $ npm create vite@latest my-vue-app -- --templ
 
 # Pasta Back-end
 - Esta é uma aplçicação de fornece uma API que possibilita ler, atualizar, gravar e deletar
+- O Back-end é responsável por todas as operações de CRUD
+##  Faça um clone do repositório aqui: 
+~~~javascript
+git clone git@github.com:walttoncoelho/back-end-todo-list.git
+~~~
 ### Para esta aplicação foi utilizada o mongoose com node-restfull
 Retorna um modelo Mongoose, para que se possa interagir de maneira mais simples e rápida.
 
@@ -34,6 +39,10 @@ npm run production
 # Pasta Front-end
 
 - Esta é uma aplicação que possibilita o usuário adicionar as suas tarefas, verificar o status, marcar como concluido e deletar as tarefas concluidas
+##  Faça um clone do repositório aqui: 
+~~~javascript
+git clone git@github.com:walttoncoelho/front-end-list.git
+~~~
 
 ### 1- Instalando dependências.
 *  Dentro da pasta do projeto exercute.
