@@ -50,7 +50,7 @@ git clone git@github.com:walttoncoelho/front-end-list.git
 npm i
 ~~~
 
-### 2- Para startar a aplicação use.
+### 2- Para iniciar a aplicação use.
 ~~~javascript
 npm run dev
 ~~~
